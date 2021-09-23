@@ -1,0 +1,27 @@
+.speech{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
+.stagedirections{
+    font-family: serif;
+    font-size: 19px;
+    color: black;
+    background-color: lightgreen;
+}
+
+.name{
+    font-family: Garamond;
+    font-size: 20px;
+    color: black;
+
+}
+.name:hover{
+
+    text-shadow: 2px 3px 5px blueviolet;
+    border: 5px solid violet;
+    box-shadow: 11px 11px 6px mediumturquoise;
+    color: transparent;
+}
+
