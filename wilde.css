@@ -1,19 +1,35 @@
 .speech{
-    font-family: sans-serif;
+    font-family: Garamond;
     font-size: 15px;
-    color: black;
+    color: rgb(223, 73, 73);
 }
 
 .stagedirections{
-    font-family: serif;
+    font-family: Garamond;
     font-size: 19px;
-    color: black;
-    background-color: lightgreen;
+    color: rgb(22, 8, 8);
+    background-color: rgb(162, 205, 230);
 }
 
 .name{
     font-family: Garamond;
     font-size: 20px;
-    color: red;
+    color: rgb(36, 33, 33);
 
 }
+.stage-direction:hover{
+    background-color: rgb(203,231,161);
+    color: bisque;
+}
+.PRES {
+    color: rgb(74,153,218);
+}
+.NINTH_CONSP{
+    color:rgb(22,138,128);
+
+}
+.MICHAEL{
+    color: rgb(235,198,34);
+
+}
+
